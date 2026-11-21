@@ -1,0 +1,9 @@
+scenario,currency,week,rate
+win_open,USD,2,7.1
+win_closed,USD,2,7.3
+loss_open,USD,2,7.0
+loss_closed,USD,2,7.4
+win_open,USD,3,7.12
+win_closed,USD,3,7.25
+loss_open,USD,3,7.20
+loss_closed,USD,3,7.5

@@ -1,0 +1,53 @@
+{
+  "opening": {
+    "account": "str",
+    "currency": "str",
+    "fund": "str",
+    "week": "int",
+    "balance": "int"
+  },
+  "scenarios": {
+    "id": "str",
+    "probability": "float",
+    "result": "str",
+    "venue": "str"
+  },
+  "fx": {
+    "scenario": "str",
+    "currency": "str",
+    "week": "int",
+    "rate": "float"
+  },
+  "dues": {
+    "id": "str",
+    "kind": "str",
+    "sign": "int",
+    "currency": "str",
+    "fund": "str",
+    "condition": "str",
+    "week": "int",
+    "delayed_week": "int",
+    "low": "int",
+    "high": "int"
+  },
+  "terms": {
+    "deal": "str",
+    "dues": "str",
+    "binding": "str"
+  },
+  "receipts": {
+    "id": "str",
+    "week": "int",
+    "due": "str",
+    "status": "str",
+    "account": "str",
+    "amount": "int"
+  },
+  "requests": {
+    "id": "str",
+    "known_week": "int",
+    "horizon": "int",
+    "minimum_unrestricted": "int",
+    "confidence": "float"
+  }
+}

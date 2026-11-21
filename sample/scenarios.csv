@@ -1,0 +1,5 @@
+id,probability,result,venue
+win_open,0.35,win,open
+win_closed,0.10,win,closed
+loss_open,0.25,loss,open
+loss_closed,0.30,loss,closed

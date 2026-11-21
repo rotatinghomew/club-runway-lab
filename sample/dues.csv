@@ -1,0 +1,11 @@
+id,kind,sign,currency,fund,condition,week,delayed_week,low,high
+salary,active,-1,CNY,staff,always,2,2,24500,24500
+travel,active,-1,USD,travel,always,2,2,2200,2200
+bonus,active,1,CNY,any,win,2,2,24000,27000
+venue,active,1,CNY,any,open,1,3,17000,17000
+gate,active,1,CNY,any,open,2,3,8500,14000
+sponsor,active,1,CNY,staff,win,2,2,18000,18000
+camp_deposit,offer,-1,CNY,staff,always,2,3,7700,7700
+camp_balance,offer,-1,CNY,staff,always,3,3,4900,4900
+showcase,offer,-1,USD,travel,always,3,3,2300,2300
+remote,offer,-1,CNY,any,always,3,3,9700,9700
